@@ -1,4 +1,4 @@
 # Destroy The World
 I want to build an app that effectively destroys the world!
 
-### This is just a simpl comment
+### This is just a simple comment
